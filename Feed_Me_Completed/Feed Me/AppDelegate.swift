@@ -1,9 +1,8 @@
 import UIKit
 import GoogleMaps
 
-let googleApiKey = "AIzaSyDbCV5Sleqb6N6_vgQsWC0upz0NePeANqg"
-
-//AIzaSyDZqLuEcKIxjZ9T-OQ1bVnwEmTPBmYl9EU
+//MARK: Create your own key
+let googleApiKey = ""
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
